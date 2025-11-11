@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align:left;
+  background-color:white;
+}
+
+h2{
+  color: blue;
+}
+
+h3{
+  color: cornflowerblue;
+}
+
+ul{
+  color: chocolate;
+}
+
+.project{
+  color:red;
+}
+
+.skill{
+  color: green;
+}
+
+
